@@ -1,0 +1,19 @@
+.aaa{
+    border: black solid;
+    background: transparent;
+    border: 1px;
+    border-bottom: black solid;
+}
+.bbb{
+    /* border: black solid; */
+    background: rgba(255, 255, 255, 0.527);
+    border-radius: 15px;
+    margin: 100px 300px 100px 300px;
+    padding: 60px 40px 60px 40px;
+}
+body{
+    background-image: url(backsub.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
